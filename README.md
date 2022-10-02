@@ -46,7 +46,5 @@ Hi
 </div>
 <hr/>
 :fire: My Stats :
-<p>
-https://github-readme-streak-stats.herokuapp.com/?user=TeodorTod
-  </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeodorTod)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TeodorTod)](https://git.io/streak-stats)
