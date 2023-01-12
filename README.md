@@ -51,4 +51,4 @@ Hi
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TeodorTod)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-git-masterrstaa-rickstaa.vercel.app/api?/top-langs/?username=TeodorTod)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TeodorTod)](https://github.com/anuraghazra/github-readme-stats)
