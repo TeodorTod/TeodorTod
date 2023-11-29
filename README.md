@@ -12,9 +12,7 @@ Hi
 <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="140" height="140"/>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/teodor-todorov-00b3131b6/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  
  </p>
  <hr/>
  :man_technologist: About Me :
@@ -26,8 +24,6 @@ Hi
 - :telescope: I mainly deal with development of frontend web applications.
 
 - :seedling: Every day I strive to learn and improve my skills
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Teodor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/teodor-todorov-00b3131b6/)
 
  </div>
  <hr/>
