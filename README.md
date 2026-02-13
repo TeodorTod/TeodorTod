@@ -64,6 +64,3 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TeodorTod)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeodorTod&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeodorTod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
